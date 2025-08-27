@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 With words i though never speakto
+=======
+I only got one thing on my mind.
+>>>>>>> rama-paralela
